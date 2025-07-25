@@ -1,2 +1,2 @@
-# BusinessDirectory
-Metro Publisher Business Directory
+Local Business Directory
+Metro Publisher Local Business Directory
